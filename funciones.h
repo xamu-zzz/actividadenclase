@@ -20,3 +20,4 @@ void readFactura();
 int findFacturaByCedula(int cedula);
 void editarFactura();
 void eliminarFactura();
+int existeCedula(int cedula);x
